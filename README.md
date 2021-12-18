@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... web development, TTRPGs, technology, all kinds of culture and cool people
 - 🌱 I’m currently learning ... front end web development and tools like git and VScode
 - 💞️ I’m looking to collaborate on ... anything fun
-- 📫 How to reach me ... my twitter is @Santiagodval
+- 📫 How to reach me ... my emal is santiagodval@outlook.com twitter is @Santiagodval
